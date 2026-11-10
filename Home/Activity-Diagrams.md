@@ -1,4 +1,4 @@
 ---
-title: Activity diagram
+title: Activity Diagrams
 ---
 TODO: add diagram
