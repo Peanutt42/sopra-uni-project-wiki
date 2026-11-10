@@ -1,4 +1,4 @@
 ---
-title: Class diagram
+title: Class Diagrams
 ---
 TODO: add diagram
