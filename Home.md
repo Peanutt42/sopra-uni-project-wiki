@@ -1,32 +1,32 @@
 ---
 title: Home
 ---
-## Einleitung:
+## Introduction:
 
-\<Kurze Einleitung in das Wiki: was ist hier vorzufinden bzw. was ist der Zweck des Wikis, worum dreht es sich (das Spiel), kurze Erklärung der Wiki Struktur.\>
+\<A brief introduction to the wiki: what can be found here, what the purpose of the wiki is, what it’s about (the game), and a brief explanation of the wiki’s structure.\>
 
-## Allgemeine Beschreibung:
+## General Description:
 
-\<Kurze Beschreibung des Spiels, von wem wird es gespielt und warum, was ist das Ziel des Spiels.\>
+\<A brief description of the game, who plays it and why, and what the goal of the game is. \>
 
-### Ansichten:
+## Screens:
 
-\<Beschreibung der Ansichten (Start Screen, Game Screen, evtl. noch weiteres), welche im Spiel vorzufinden sind.\>
+\<Description of the screens (start screen, game screen, possibly others) found in the game.\>
 
-### Systemeinschränkungen und Abhängigkeiten:
+## System Restrictions and Dependencies:
 
-\<Welche Einschränkungen betreffen die Verwendung und Entwicklung des Spiels. Welche Entwicklungs- und Laufzeitumgebung werden benötigt, für welche Plattformen (Betriebssysteme) wird es entwickelt. Was sind die technischen Anforderungen.\>
+\<What restrictions apply to the use and development of the game. Which development and runtime environments are required, and for which platforms (operating systems) is it being developed? What are the technical requirements?\>
 
-## Diagramme:
+## Diagrams:
 
-### Zustandsdiagramme
+### State Diagrams
 
-\<Die Zustandsdiagramme von Blatt 2 zusammen mit ihren Beschreibungen oder einer Verlinkung zur entsprechenden Unterseite.\>
+\<The state diagrams from Sheet 2, along with their descriptions or a link to the corresponding subpage.\>
 
-### Aktivitätsdiagramme
+### Activity Diagrams
 
-\<Die Aktivitätsdiagramme von Blatt 2 zusammen mit ihren Beschreibungen oder einer Verlinkung zur entsprechenden Unterseite.\>
+\<The activity diagrams from Sheet 2, along with their descriptions or a link to the corresponding subpage.\>
 
-### Klassendiagramme
+### Class Diagrams
 
-\<Die Klassendiagramme von Blatt 2 zusammen mit ihren Beschreibungen oder einer Verlinkung zur entsprechenden Unterseite.\>
+\<The class diagrams from Sheet 2, along with their descriptions or a link to the corresponding subpage.\>
