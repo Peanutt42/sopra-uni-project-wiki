@@ -1,4 +1,4 @@
 ---
-title: State diagram
+title: State Diagrams
 ---
 TODO: add diagram
