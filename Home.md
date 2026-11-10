@@ -19,14 +19,8 @@ title: Home
 
 ## Diagrams:
 
-### State Diagrams
+### [State Diagrams](./Home/State-Diagrams)
 
-\<The state diagrams from Sheet 2, along with their descriptions or a link to the corresponding subpage.\>
+### [Activity Diagrams](./Home/Activity-Diagrams)
 
-### Activity Diagrams
-
-\<The activity diagrams from Sheet 2, along with their descriptions or a link to the corresponding subpage.\>
-
-### Class Diagrams
-
-\<The class diagrams from Sheet 2, along with their descriptions or a link to the corresponding subpage.\>
+### [Class Diagrams](./Home/Class-Diagrams)
