@@ -23,6 +23,9 @@ User flow / how the user interacts with the game is better described by the Acti
 
 ![State_Diagram_Overview.svg](uploads/95b4bcaaeeb914bdabf0d22ac1646d7a/State_Diagram_Overview.svg){width="1138" height="1661"}
 
+> [!NOTE]
+> The "save game state and return to start" transition must be able to be done from all states within the placement and attack phase. I have explicitly left those transitions out of the detailed diagrams for those states as to not clutter the diagram too much.
+
 ## StartScreen Diagram
 
 ![State_Diagram_StartScreen.svg](uploads/d8a123c77d39be6cb49117770d7116f8/State_Diagram_StartScreen.svg){width="948" height="362"}
