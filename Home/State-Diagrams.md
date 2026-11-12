@@ -25,13 +25,13 @@ User flow / how the user interacts with the game is better described by the Acti
 
 ## StartScreen Diagram
 
-![State_Diagram_StartScreen.svg](uploads/d8a123c77d39be6cb49117770d7116f8/State_Diagram_StartScreen.svg){width=948 height=362}
+![State_Diagram_StartScreen.svg](uploads/d8a123c77d39be6cb49117770d7116f8/State_Diagram_StartScreen.svg){width="948" height="362"}
 
 ## GameScreen Diagrams
 
 ### Placement Phase Diagram
 
-(TODO: embed Placement Phase diagram)
+![State_Diagram_Placement_Phase.svg](uploads/531c1676d945406d11bab201dc5bb6fc/State_Diagram_Placement_Phase.svg){width=984 height=481}
 
 ### Attack Phase Diagram
 
