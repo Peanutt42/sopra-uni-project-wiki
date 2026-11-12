@@ -1,7 +1,6 @@
 ---
 title: State Diagrams
 ---
-
 (the raw `.drawio` file for these diagrams is in [State_Diagrams.drawio](uploads/96347e29cccbde8636c617258e3f569c/State_Diagrams.drawio))
 
 Links to the different state diagrams:
@@ -26,7 +25,7 @@ User flow / how the user interacts with the game is better described by the Acti
 
 ## StartScreen Diagram
 
-(TODO: embed StartScreen diagram)
+![State_Diagram_StartScreen.svg](uploads/d8a123c77d39be6cb49117770d7116f8/State_Diagram_StartScreen.svg){width=948 height=362}
 
 ## GameScreen Diagrams
 
