@@ -1,7 +1,7 @@
 ---
 title: State Diagrams
 ---
-(the raw `.drawio` file for these diagrams is in [State_Diagrams.drawio](uploads/96347e29cccbde8636c617258e3f569c/State_Diagrams.drawio))
+(the raw `.drawio` file for these diagrams is in [State_Diagrams.drawio](uploads/4a6b3a1c0cdd0ebe60cedf3c7b49fed1/State_Diagrams.drawio))
 
 Links to the different state diagrams:
 
@@ -35,4 +35,4 @@ User flow / how the user interacts with the game is better described by the Acti
 
 ### Attack Phase Diagram
 
-![State_Diagram_Attack_Phase.svg](uploads/69b7cab76a3d154833dae98f00c5302f/State_Diagram_Attack_Phase.svg){width=962 height=681}
+![State_Diagram_Attack_Phase.svg](uploads/69b7cab76a3d154833dae98f00c5302f/State_Diagram_Attack_Phase.svg){width="962" height="681"}
