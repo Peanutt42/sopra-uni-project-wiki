@@ -2,7 +2,7 @@
 title: State Diagrams
 ---
 
-(the raw `.drawio` file for these diagrams is in [State_Diagrams.drawio](raw_drawio_diagram_files/State_Diagrams.drawio))
+(the raw `.drawio` file for these diagrams is in [State_Diagrams.drawio](uploads/96347e29cccbde8636c617258e3f569c/State_Diagrams.drawio))
 
 Links to the different state diagrams:
 
