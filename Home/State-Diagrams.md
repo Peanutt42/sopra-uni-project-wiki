@@ -17,7 +17,7 @@ The state diagram(s) show the different states the game can be in.
 
 They should be more towards the technical side of the implementation.
 
-User flow / how the user interacts with the game is better described by the Activity Diagrams.
+User flow / how the user interacts with the game is better described by the [Activity Diagrams](./Activity-Diagrams).
 
 ## Overview Diagram
 
