@@ -1,15 +1,16 @@
 ---
 title: State Diagrams
 ---
-(TODO: upload raw .drawio files to the wiki git repo too with a link in wiki markdown)
+
+(the raw `.drawio` file for these diagrams is in [State_Diagrams.drawio](raw_drawio_diagram_files/State_Diagrams.drawio))
 
 Links to the different state diagrams:
 
-* [Overview](#Overview)
-* [StartScreen](#StartScreen)
-* [GameScreen](#GameScreen)
-  * [Placement Phase](#Placement%20Phase)
-  * [Attack Phase](#Attack%20Phase)
+* [Overview](#overview-diagram)
+* [StartScreen](#startscreen-diagram)
+* [GameScreen](#gamescreen-diagrams)
+  * [Placement Phase](#placement-phase-diagram)
+  * [Attack Phase](#attack-phase-diagram)
 
 ## Explanation
 
@@ -23,16 +24,16 @@ User flow / how the user interacts with the game is better described by the Acti
 
 ![State_Diagram_Overview.svg](uploads/95b4bcaaeeb914bdabf0d22ac1646d7a/State_Diagram_Overview.svg){width="1138" height="1661"}
 
-## StartScreen
+## StartScreen Diagram
 
 (TODO: embed StartScreen diagram)
 
-## GameScreen
+## GameScreen Diagrams
 
-### Placement Phase
+### Placement Phase Diagram
 
 (TODO: embed Placement Phase diagram)
 
-### Attack Phase
+### Attack Phase Diagram
 
 (TODO: embed Attack Phase diagram)
