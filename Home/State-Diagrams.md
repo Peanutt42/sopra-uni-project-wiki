@@ -31,8 +31,8 @@ User flow / how the user interacts with the game is better described by the Acti
 
 ### Placement Phase Diagram
 
-![State_Diagram_Placement_Phase.svg](uploads/531c1676d945406d11bab201dc5bb6fc/State_Diagram_Placement_Phase.svg){width=984 height=481}
+![State_Diagram_Placement_Phase.svg](uploads/531c1676d945406d11bab201dc5bb6fc/State_Diagram_Placement_Phase.svg){width="984" height="481"}
 
 ### Attack Phase Diagram
 
-(TODO: embed Attack Phase diagram)
+![State_Diagram_Attack_Phase.svg](uploads/69b7cab76a3d154833dae98f00c5302f/State_Diagram_Attack_Phase.svg){width=962 height=681}
