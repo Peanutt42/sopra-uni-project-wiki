@@ -11,9 +11,7 @@ Links to the different state diagrams:
   * [Placement Phase](#Placement%20Phase)
   * [Attack Phase](#Attack%20Phase)
 
-## Overview
-
-### Explanation
+## Explanation
 
 The state diagram(s) show the different states the game can be in.
 
@@ -21,7 +19,7 @@ They should be more towards the technical side of the implementation.
 
 User flow / how the user interacts with the game is better described by the Activity Diagrams.
 
-### Diagram
+## Overview Diagram
 
 ![State_Diagram_Overview.svg](uploads/95b4bcaaeeb914bdabf0d22ac1646d7a/State_Diagram_Overview.svg){width="1138" height="1661"}
 
