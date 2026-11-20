@@ -3,7 +3,7 @@ title: Class Diagrams
 ---
 (the raw `*.drawio` file is uploaded to: [Class_Diagrams.drawio](uploads/dcb2df5611eefe3f4e8d276911fa0797/Class_Diagrams.drawio))
 
-![diagram_under_maintenance.gif](uploads/bcfd91c0b8e3a4355936c76e41c97c25/diagram_under_maintenance.gif){width=985 height=464}
+![diagram_under_maintenance.gif](uploads/4983fc35379ab1db3f7471690bc7d22f/diagram_under_maintenance.gif){width=984 height=463}
 
 The main idea while designing was to try and follow the principle of single source of truth.
 
