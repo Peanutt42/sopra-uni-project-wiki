@@ -3,6 +3,8 @@ title: State Diagrams
 ---
 (the raw `.drawio` file for these diagrams is in [State_Diagrams.drawio](uploads/4a6b3a1c0cdd0ebe60cedf3c7b49fed1/State_Diagrams.drawio))
 
+![diagram_under_maintenance.gif](uploads/7ddaf939185578598344c8ea48a34278/diagram_under_maintenance.gif){width=1039 height=489}
+
 Links to the different state diagrams:
 
 * [Overview](#overview-diagram)
@@ -23,7 +25,8 @@ User flow / how the user interacts with the game is better described by the [Act
 
 ![State_Diagram_Overview.svg](uploads/95b4bcaaeeb914bdabf0d22ac1646d7a/State_Diagram_Overview.svg){width="1138" height="1661"}
 
-> [!NOTE]
+> [!note]
+>
 > The "save game state and return to start" transition must be able to be done from all states within the placement and attack phase. I have explicitly left those transitions out of the detailed diagrams for those states as to not clutter the diagram too much.
 
 ## StartScreen Diagram
