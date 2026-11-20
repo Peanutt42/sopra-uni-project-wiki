@@ -3,11 +3,13 @@ title: Class Diagrams
 ---
 (the raw `*.drawio` file is uploaded to: [Class_Diagrams.drawio](uploads/dcb2df5611eefe3f4e8d276911fa0797/Class_Diagrams.drawio))
 
+![diagram_under_maintenance.gif](uploads/bcfd91c0b8e3a4355936c76e41c97c25/diagram_under_maintenance.gif){width=985 height=464}
+
 The main idea while designing was to try and follow the principle of single source of truth.
 
 That means that rather than multiple states storing the same or equivalent information, the information is stored in one place and referenced everywhere else.
 
-One important example of this is the board field information, so what tiles have been hit, whether a ship is on that tile and whether a ship has been sunken on that tile. While storing this information in the BoardState and in the Ship would be easy, it could introduce states where the board and the ship do not agree with each other, resulting in bugs that are very hard to trace back and find their root issue. 
+One important example of this is the board field information, so what tiles have been hit, whether a ship is on that tile and whether a ship has been sunken on that tile. While storing this information in the BoardState and in the Ship would be easy, it could introduce states where the board and the ship do not agree with each other, resulting in bugs that are very hard to trace back and find their root issue.
 
 ## ThunderEvent
 
