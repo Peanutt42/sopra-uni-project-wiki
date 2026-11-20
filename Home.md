@@ -55,6 +55,10 @@ The easiest way to compile and develop the game on Linux is using [nix](https://
 
 The game can run on both Wayland and X11 when on Linux. The game additionally runs in a WebGL/webgpu supporting browser using WASM (like Firefox or Chromium based browsers). The browser build is the simplest when just trying to run the game.
 
+## Mood board
+
+The mood board can be found [here](./Home/Mood-board). It contains many screenshots and references to technical presentations, game-dev talks and reference implementations of mostly graphical rendering features.
+
 ## Diagrams
 
 ### [State Diagrams](./Home/State-Diagrams)
