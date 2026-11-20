@@ -3,7 +3,7 @@ title: Activity Diagrams
 ---
 (the raw `.drawio` file is uploaded here: [Activity_Diagram.drawio](uploads/b45ec111eaa41ec06ebb1291b00f5654/Activity_Diagram.drawio))
 
-![diagram_under_maintenance.gif](uploads/4aa33c5d98e4dd09a06add30abf310a8/diagram_under_maintenance.gif){width=1083 height=510}
+![diagram_under_maintenance.gif](uploads/232538377b3ef26c3abe96025daf5cbb/diagram_under_maintenance.gif){width=1196 height=563}
 
 The activity diagrams should visualize the things a player can to do in the game, and in what order they can do those things.
 
