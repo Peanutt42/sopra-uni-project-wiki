@@ -17,6 +17,12 @@ First in the placement phase each player places all of their ships on a fixed gr
 
 Then in the attack phase, each player chooses one tile of the enemy board to attack and gets feedback whether that attack hit a ship or not. The player who first sinks all ships of the enemy before their own ships are sunk wins the game.
 
+The game is written in Rust with my own custom game engine "sphynx_engine" written from scratch. It uses wgpu as the graphical rendering API in order to support basically every reasonable platform with a unified and performant API. Additionally wgpu has very convenient error messages and validation, reducing long debugging why nothing is being rendered inside of [RenderDoc](https://renderdoc.org/).
+
+The rendering is done using the WESL shading language (WGSL extension). The game compiles/transpiles WESL into WGSL which then depending on the platform compiles that then further compile that to for ex. SPIR-V. WESL allows for a more modern programming language experience and lets the engine define structs to glue cpu engine code with gpu shader code together, all in seperate file, imported as a sperate WESL package.
+
+The games logic is largely done using a ECS (Entity Component System). This separates Data into Components and logic into Systems, allowing for a much more flexible game code that uses composition instead of relying on inheritance. Specifically, the hecs library is used to implement the ECS World.
+
 ## Screens
 
 ### StartScreen
