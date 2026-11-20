@@ -3,7 +3,7 @@ title: State Diagrams
 ---
 (the raw `.drawio` file for these diagrams is in [State_Diagrams.drawio](uploads/4a6b3a1c0cdd0ebe60cedf3c7b49fed1/State_Diagrams.drawio))
 
-![diagram_under_maintenance.gif](uploads/7ddaf939185578598344c8ea48a34278/diagram_under_maintenance.gif){width=1039 height=489}
+![diagram_under_maintenance.gif](uploads/72879fc112c8001ba2a6b8d01f065551/diagram_under_maintenance.gif){width=982 height=462}
 
 Links to the different state diagrams:
 
