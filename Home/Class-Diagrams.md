@@ -3,19 +3,17 @@ title: Class Diagrams
 ---
 (the raw `*.drawio` file is uploaded to: [Class_Diagrams.drawio](uploads/aacac21c0efe33a1f607e1b385b33e99/Class_Diagrams.drawio))
 
-![diagram_under_maintenance.gif](uploads/4983fc35379ab1db3f7471690bc7d22f/diagram_under_maintenance.gif){width="984" height="463"}
-
 The class diagrams are split into separate topics: Domain, Configuration file, Game saving, Screens and the Thunder event.
 
 The main idea while designing was to try and follow the principle of single source of truth.
 
 That means that rather than multiple states storing the same or equivalent information, the information is stored in one place and referenced everywhere else.
 
-One important example of this is the board field information, so what tiles have been hit, whether a ship is on that tile and whether a ship has been sunken on that tile. While storing this information in the BoardState and in the Ship would be easy, it could introduce states where the board and the ship do not agree with each other, resulting in bugs that are very hard to trace back and find their root issue.
+One important example of this is the board field information, so what tiles have been hit, whether a ship is on that tile and whether a ship has been sunken on that tile. While storing this information in the `BoardState` and in the Ship would be easy, it could introduce states where the board and the ship do not agree with each other, resulting in bugs that are very hard to trace back and find their root issue.
 
 ## Domain
 
-![Class_Diagram_Domain.svg](uploads/4a7750074242c85c3a8e6021c737b424/Class_Diagram_Domain.svg){width=1066 height=741}
+![Class_Diagram_Domain.svg](uploads/4a7750074242c85c3a8e6021c737b424/Class_Diagram_Domain.svg){width="1066" height="741"}
 
 The domain class diagram has a few domain specific classes. They are keep track of the game state (phase, round, board states of both players, player at turn, game over, etc.). The ships and tile state get handled by this class. The most important parts of the `ShipGame` class is the `attackTile()` method that returns a `AttackResult` and the `getTileState()` method for checking the state of a single tile. The `ShipGame` enables the principle of single source of truth, since multiple parts of the game need to know different parts of the games state, but storing the information for all of those separately would lead to dublication which then can lead to different values for the same information of the games state.
 
@@ -31,7 +29,7 @@ The `GameConfig` class represents all configuration values from the saved JSON c
 
 The `ShipConfig` class has all the information needed to describe a ship type, like how many of the ship type have to be placed. The type of the ship can have four predefinied values: `Explorer`, `Cruiser`, `Mothership` or `Custom`. How a custom ship type will be specified in the configuration file will be determined later on in the development.
 
-When ships are placed on the board, they can have four orientations: `Normal`, `CW90`, `CW180`, `CW270` (CW = __C__ ounter-clock- __W__ ise). This is needed in order to support asymmetric ship designs later on.
+When ships are placed on the board, they can have four orientations: `Normal`, `CW90`, `CW180`, `CW270` (CW = **C** ounter-clock- **W** ise). This is needed in order to support asymmetric ship designs later on.
 
 ## Game Saving
 
