@@ -1,9 +1,9 @@
 ---
 title: State Diagrams
 ---
-(the raw `.drawio` file for these diagrams is in [State_Diagrams.drawio](uploads/4a6b3a1c0cdd0ebe60cedf3c7b49fed1/State_Diagrams.drawio))
+(the raw `.drawio` file for these diagrams is in [State_Diagrams.drawio](uploads/1bf52741c4bd2b831263b7e086ef7dd5/State_Diagrams.drawio))
 
-![diagram_under_maintenance.gif](uploads/72879fc112c8001ba2a6b8d01f065551/diagram_under_maintenance.gif){width=982 height=462}
+![diagram_under_maintenance.gif](uploads/72879fc112c8001ba2a6b8d01f065551/diagram_under_maintenance.gif){width="982" height="462"}
 
 Links to the different state diagrams:
 
@@ -23,7 +23,7 @@ User flow / how the user interacts with the game is better described by the [Act
 
 ## Overview Diagram
 
-![State_Diagram_Overview.svg](uploads/95b4bcaaeeb914bdabf0d22ac1646d7a/State_Diagram_Overview.svg){width="1138" height="1661"}
+![State_Diagram_Overview.svg](uploads/ca7d031220240a86d7d9a63ae13d520a/State_Diagram_Overview.svg){width="1040" height="2019"}
 
 > [!note]
 >
@@ -31,14 +31,14 @@ User flow / how the user interacts with the game is better described by the [Act
 
 ## StartScreen Diagram
 
-![State_Diagram_StartScreen.svg](uploads/d8a123c77d39be6cb49117770d7116f8/State_Diagram_StartScreen.svg){width="948" height="362"}
+![State_Diagram_StartScreen.svg](uploads/c30db7f16f29fa5c7f9f629e58a02c0f/State_Diagram_StartScreen.svg){width="1018" height="445"}
 
 ## GameScreen Diagrams
 
 ### Placement Phase Diagram
 
-![State_Diagram_Placement_Phase.svg](uploads/531c1676d945406d11bab201dc5bb6fc/State_Diagram_Placement_Phase.svg){width="984" height="481"}
+![State_Diagram_Placement_Phase.svg](uploads/dcdfe0d874a015b54d398c57fd166ffc/State_Diagram_Placement_Phase.svg){width="1049" height="461"}
 
 ### Attack Phase Diagram
 
-![State_Diagram_Attack_Phase.svg](uploads/69b7cab76a3d154833dae98f00c5302f/State_Diagram_Attack_Phase.svg){width="962" height="681"}
+![State_Diagram_Attack_Phase.svg](uploads/146ce12b26c41711a8631e5bef6386ea/State_Diagram_Attack_Phase.svg){width="1041" height="737"}
