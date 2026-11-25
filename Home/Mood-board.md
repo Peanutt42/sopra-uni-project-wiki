@@ -37,9 +37,9 @@ https://sketchfab.com/3d-models/low-poly-war-pack-ships-7c2acc6e011947a69cb4cad7
 
 https://sketchfab.com/3d-models/ropucha-class-landing-ship-2346efbaa7074b958e0e487e5e209700 (DOWNLOADABLE!)
 
-![](https://vikunja.sh.peternhennig.de/api/v2/tasks/517/attachments/9)https://sketchfab.com/3d-models/uss-wasp-lhd-1-8e68ca4a3b854b2f8f19b942ae944466
+https://sketchfab.com/3d-models/uss-wasp-lhd-1-8e68ca4a3b854b2f8f19b942ae944466
 
-https://sketchfab.com/3d-models/massachusetts-318c1cf643684d6a85eee356b323ef4e![](https://vikunja.sh.peternhennig.de/api/v2/tasks/517/attachments/12)
+[https://sketchfab.com/3d-models/massachusetts-318c1cf643684d6a85eee356b323ef4e](https://sketchfab.com/3d-models/massachusetts-318c1cf643684d6a85eee356b323ef4e)
 
 https://sketchfab.com/3d-models/c-201-cruiser-ship-model-2fe769d7f7294f428b362ba17a1d70f2 (DOWNLOADABLE!)
 
@@ -53,9 +53,9 @@ https://sketchfab.com/3d-models/uss-skipjack-ssn-585-submarine-3ae5288249a048878
 
 ![3.png](/softwaregrundprojekt/2026-2027/einzelprojekt/tutorium-phuong-anh/hennig-peter/hennig-peter/-/wikis/uploads/70555f3e078a106a7e868d3c2e8f0c78/3.png){width="900" height="560"}
 
-![6.png](uploads/72a7b517c1abb93bc4be4e363cac2453/6.png){width=900 height=327}
+![6.png](uploads/72a7b517c1abb93bc4be4e363cac2453/6.png){width="900" height="327"}
 
-![](https://vikunja.sh.peternhennig.de/api/v2/tasks/517/attachments/15)![](https://vikunja.sh.peternhennig.de/api/v2/tasks/517/attachments/16)![7.png](/softwaregrundprojekt/2026-2027/einzelprojekt/tutorium-phuong-anh/hennig-peter/hennig-peter/-/wikis/uploads/00702b66d3fc0e4429b97cb4cb52ab41/7.png){width="900" height="327"}
+![7.png](/softwaregrundprojekt/2026-2027/einzelprojekt/tutorium-phuong-anh/hennig-peter/hennig-peter/-/wikis/uploads/00702b66d3fc0e4429b97cb4cb52ab41/7.png){width="900" height="327"}
 
 ![8.png](/softwaregrundprojekt/2026-2027/einzelprojekt/tutorium-phuong-anh/hennig-peter/hennig-peter/-/wikis/uploads/92e4812785830bee3094c54ecd5cea62/8.png){width="900" height="488"}
 
@@ -77,7 +77,7 @@ https://sketchfab.com/3d-models/low-poly-war-pack-ships-7c2acc6e011947a69cb4cad7
 
 https://github.com/emilje/godot-water-shader
 
-![19.png](uploads/4d308c2e565a987abbfd9c101c24e508/19.png){width=320 height=569}
+![19.png](uploads/4d308c2e565a987abbfd9c101c24e508/19.png){width="320" height="569"}
 
 #### FFT-Ocean (Unity)
 
@@ -85,21 +85,19 @@ https://github.com/gasgiant/FFT-Ocean
 
 Video: https://www.youtube.com/watch?v=kGEqaX4Y4bQ (auch unten nochmal)
 
-![21.png](uploads/5afdfdc0b58c9f55bcf205660d96a06d/21.png){width=900 height=507}
+![21.png](uploads/5afdfdc0b58c9f55bcf205660d96a06d/21.png){width="900" height="507"}
 
 Im Video referenziert (sehr einfach, aber mit detailierten Erklärungen): Gerstner Waves
 
 https://catlikecoding.com/unity/tutorials/flow/waves/
 
-![](https://vikunja.sh.peternhennig.de/api/v2/tasks/517/attachments/26)
-
-![22.png](uploads/c95736098ff24c552131b772ce4d4347/22.png){width=900 height=450}
+![22.png](uploads/c95736098ff24c552131b772ce4d4347/22.png){width="900" height="450"}
 
 #### Sea of Thieves Water
 
 https://www.seaofthieves.com/
 
-![20.png](uploads/4c1d8ef923311f9a4870497da80e1ab6/20.png){width=900 height=490}
+![20.png](uploads/4c1d8ef923311f9a4870497da80e1ab6/20.png){width="900" height="490"}
 
 Explainations of the water:
 
@@ -107,19 +105,18 @@ Explainations of the water:
 * Ocean waves simulation with Fast Fourier transform: https://www.youtube.com/watch?v=kGEqaX4Y4bQ
 * The technical art of sea of thieves: https://www.youtube.com/watch?v=y9BOz2dFZzs
 * How Games fake water (Acerola) https://www.youtube.com/watch?v=PH9q0HNBjT4&t=1220s
-* I Tried Simulating The Entire Ocean: (Acerola) https://www.youtube.com/watch?v=yPfagLeUa7k\
-  Code: https://github.com/GarrettGunnell/Water
+* I Tried Simulating The Entire Ocean: (Acerola) https://www.youtube.com/watch?v=yPfagLeUa7k\ Code: https://github.com/GarrettGunnell/Water
 
-  ![23.png](uploads/b76a282d9b4c89035aa9a8f3e11c71d4/23.png){width=900 height=425}
+  ![23.png](uploads/b76a282d9b4c89035aa9a8f3e11c71d4/23.png){width="900" height="425"}
 * Do Games fake bouancy? (Acerola) https://www.youtube.com/watch?v=ja8yCvXzw2c
 
 https://sketchfab.com/3d-models/low-poly-war-pack-ships-7c2acc6e011947a69cb4cad7acb2afd9
 
-![3.png](uploads/56d259f1ace1a88b7cf59cdd528daafe/3.png){width=900 height=560}
+![3.png](uploads/56d259f1ace1a88b7cf59cdd528daafe/3.png){width="900" height="560"}
 
 (No Postprocessing:)
 
-![4.png](uploads/8ea862f1091763b168b2435b230ea2ae/4.png){width=900 height=425}
+![4.png](uploads/8ea862f1091763b168b2435b230ea2ae/4.png){width="900" height="425"}
 
 ## **=== GRAPHICS (Renderer Features) ===**
 
