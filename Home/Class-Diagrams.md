@@ -1,9 +1,9 @@
 ---
 title: Class Diagrams
 ---
-(the raw `*.drawio` file is uploaded to: [Class_Diagrams.drawio](uploads/dcb2df5611eefe3f4e8d276911fa0797/Class_Diagrams.drawio))
+(the raw `*.drawio` file is uploaded to: [Class_Diagrams.drawio](uploads/e94c36265e3e25752e9bbe6410d8f903/Class_Diagrams.drawio))
 
-![diagram_under_maintenance.gif](uploads/4983fc35379ab1db3f7471690bc7d22f/diagram_under_maintenance.gif){width=984 height=463}
+![diagram_under_maintenance.gif](uploads/4983fc35379ab1db3f7471690bc7d22f/diagram_under_maintenance.gif){width="984" height="463"}
 
 The main idea while designing was to try and follow the principle of single source of truth.
 
@@ -13,19 +13,19 @@ One important example of this is the board field information, so what tiles have
 
 ## ThunderEvent
 
-![Class_Diagram_ThunderEvent.svg](uploads/98912c8a092b3affa028e5eb6bafa0a1/Class_Diagram_ThunderEvent.svg){width="1048" height="1223"}
+![Class_Diagram_ThunderEvent.svg](uploads/0cc0767f936226f584dd25ace24ddce0/Class_Diagram_ThunderEvent.svg){width=998 height=1169}
 
 ## Configuration File
 
-![Class_DIagram_ConfigurationFile.svg](uploads/61c39f1ca578e8495ffc2f0022248c6a/Class_DIagram_ConfigurationFile.svg){width="998" height="1050"}
+![Class_DIagram_ConfigurationFile.svg](uploads/c4f2c8d970402d3d4658626c5e497285/Class_DIagram_ConfigurationFile.svg){width=1119 height=1216}
 
 ## Game Saving
 
-![Class_Diagram_GameSaving.svg](uploads/9d071d2dbbae086eeb328ce56a5dd643/Class_Diagram_GameSaving.svg){width="1042" height="1676"}
+![Class_Diagram_GameSaving.svg](uploads/52243ba0c6884630ea8b756a3c9bd664/Class_Diagram_GameSaving.svg){width=976 height=1727}
 
 ## Screens
 
-![Class_Diagram_Screens.svg](uploads/16603d36e7dd1a644bea7a8aa4a30db3/Class_Diagram_Screens.svg){width="1052" height="1499"}
+![Class_Diagram_Screens.svg](uploads/7bffd974e604f91aa1d55fc7427b6d4d/Class_Diagram_Screens.svg){width=991 height=1733}
 
 In order for faster iteration speed while experimenting and developing the game, the game engine has a hot-reloading feature that optionally loads all game code as a dynamically loaded shared library that can be removed and swapped out. This requires the game engine to transition the game's state which also means that the game engine needs a way to serialize and deserialize the game's state in a way that does not require binary compatibility.
 
@@ -35,4 +35,4 @@ The save and resume game later mechanic is separate of that game engine feature.
 
 ## Domain
 
-![Class_Diagram_Domain.svg](uploads/44fc2a036f92d2cfd4827bc5fbf18329/Class_Diagram_Domain.svg){width="1074" height="744"}
+![Class_Diagram_Domain.svg](uploads/420afcccd504d9b362683540928a093b/Class_Diagram_Domain.svg){width=948 height=659}
